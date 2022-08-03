@@ -1,4 +1,4 @@
-package com.tosan.modern.channelmanager.docker;
+package com.example.one;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.WebApplicationType;
